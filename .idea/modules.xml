@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/recipes-db.iml" filepath="$PROJECT_DIR$/.idea/modules/recipes-db.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Recipes/task/recipes-db.Recipes-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Recipes/task/recipes-db.Recipes-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Recipes/task/recipes-db.Recipes-task.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Recipes/task/recipes-db.Recipes-task.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Recipes/task/recipes-db.Recipes-task.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Recipes/task/recipes-db.Recipes-task.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/recipes-db.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/recipes-db.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/recipes-db.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/recipes-db.util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/recipes-db.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/recipes-db.util.test.iml" />
+    </modules>
+  </component>
+</project>
