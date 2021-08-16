@@ -3,7 +3,7 @@ hyperskill_project:
   ide_files: https://stepik.org/media/attachments/lesson/529086/additional_files.json
   is_template_based: false
   use_ide: true
-update_date: Mon, 09 Aug 2021 05:46:08 UTC
+update_date: Mon, 16 Aug 2021 15:15:04 UTC
 stages:
 - id: 917
   step: 13088
@@ -243,12 +243,12 @@ topics:
     theory_id: 10878
   - title: Hash table
     theory_id: 13054
-  - title: Exception handling
-    theory_id: 8780
   - title: Spring beans
     theory_id: 14641
   - title: Spring components
     theory_id: 14652
+  - title: Exception handling
+    theory_id: 8780
   - title: Interfaces
     theory_id: 9640
   - title: Hierarchy of exceptions
@@ -264,8 +264,6 @@ topics:
   2:
   - title: The concept of patterns
     theory_id: 3611
-  - title: Files
-    theory_id: 13025
   - title: Introduction to databases
     theory_id: 8497
   - title: Relational Data Model
@@ -278,10 +276,12 @@ topics:
     theory_id: 8771
   - title: JPA relationships
     theory_id: 8936
-  - title: CRUD repositories
-    theory_id: 9536
+  - title: '@Bean vs @Component'
+    theory_id: 14771
   - title: Bean validation
     theory_id: 9355
+  - title: CRUD repositories
+    theory_id: 9536
   - title: Application layers
     theory_id: 13971
   - title: Regexps basics
@@ -326,6 +326,8 @@ topics:
   - title: The utility class Collections
     theory_id: 3573
   4:
+  - title: Web security, OWASP
+    theory_id: 14755
   - title: HTTP Basic Auth
     theory_id: 7778
   - title: Getting started with Spring Security
